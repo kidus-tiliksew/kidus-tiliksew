@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kidus-tiliksew
-- 👀 I’m interested in Go, Elasticsearch, React.js & GraphQL
+- 👀 I’m interested in Go, React, and Flutter 
 - 📫 Reach me at kidus@tensorsystems.net
 
 <!---
