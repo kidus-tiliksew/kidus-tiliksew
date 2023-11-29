@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kidus-tiliksew
 - 👀 I’m interested in Go, React, and Flutter 
-- 📫 Reach me at kidus@tensorsystems.net
+- 📫 Reach me at kidus.tiliksew@gmail.com
 
 <!---
 kidus-tiliksew/kidus-tiliksew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
